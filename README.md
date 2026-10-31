@@ -18,7 +18,7 @@
 
 ## Italiano
 
-ImageTools unisce in un'unica app il **ridimensionamento** (alla Resize Master) e l'**ottimizzazione** (alla ImageOptim): trascini immagini o cartelle e ogni file passa per tre fasi, Ridimensiona → Ottimizza → Esporta. App firmata e notarizzata da Apple.
+ImageTools unisce in un'unica app il **ridimensionamento** e l'**ottimizzazione** delle immagini: trascini immagini o cartelle e ogni file passa per tre fasi, Ridimensiona → Ottimizza → Esporta. App firmata e notarizzata da Apple.
 
 - **Ridimensiona**: in percentuale, per larghezza o altezza, adatta a un rettangolo, ritaglia alle proporzioni (1:1, 4:3, 3:2, 16:9, 5:4 o personalizzate)
 - **Converti** in JPEG, PNG, TIFF o HEIC, con spazio colore (sRGB, Display P3, Adobe RGB) e qualità a scelta
@@ -36,12 +36,12 @@ Apri `ImageTools.dmg` e trascina ImageTools in **Applicazioni**.
 
 ## English
 
-ImageTools combines **resizing** (like Resize Master) and **optimization** (like ImageOptim) in one app: drop images or folders and every file goes through three phases, Resize → Optimize → Export. Signed and notarized by Apple.
+ImageTools combines image **resizing** and **optimization** in one app: drop images or folders and every file goes through three phases, Resize → Optimize → Export. Signed and notarized by Apple.
 
 - Resize by percent, width, height, fit to a rectangle or crop to an aspect ratio
 - Convert to JPEG, PNG, TIFF or HEIC with colour space and quality of your choice
 - Copy metadata, add artist and copyright, set DPI, add an image watermark
-- Lossless or lossy optimization of PNG, JPEG, GIF and SVG with the ImageOptim tool chain
+- Lossless or lossy optimization of PNG, JPEG, GIF and SVG with a chain of specialised open source tools
 - Export to a folder (subfolders are recreated) or overwrite the originals
 - Italian and English, light/dark theme, accent colours, space-saved statistics
 - Automatic updates from this page
@@ -51,4 +51,4 @@ Open `ImageTools.dmg` and drag ImageTools to **Applications**.
 
 ---
 
-Optimization uses the open source tools bundled with ImageOptim by Kornel Lesiński, each under its own licence. Resizing features are inspired by Resize Master by Alexander Boltnev and Olga Kacher.
+Optimization uses these open source tools, each under its own licence: OxiPNG, pngquant, Zopfli, AdvanceCOMP, PNGCrush, JPEGOptim, MozJPEG, Guetzli, Gifsicle and svgcleaner.
