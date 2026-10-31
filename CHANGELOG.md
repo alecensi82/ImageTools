@@ -1,5 +1,8 @@
 # Novità di ImageTools
 
+## 1.2
+- Testi dell'app, guida e informazioni riscritti e semplificati
+
 ## 1.1
 - Nuova icona
 - Controllo degli aggiornamenti automatico e manuale da GitHub (menu ImageTools › Controlla aggiornamenti…)
